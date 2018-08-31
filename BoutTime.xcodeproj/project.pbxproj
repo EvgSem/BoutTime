@@ -12,6 +12,7 @@
 		C7730BC42134849700D0F51F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7730BC22134849700D0F51F /* Main.storyboard */; };
 		C7730BC62134849900D0F51F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7730BC52134849900D0F51F /* Assets.xcassets */; };
 		C7730BC92134849900D0F51F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7730BC72134849900D0F51F /* LaunchScreen.storyboard */; };
+		C7730BD52139E42600D0F51F /* SelectedButtonTag.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7730BD42139E42600D0F51F /* SelectedButtonTag.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C7730BC52134849900D0F51F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C7730BC82134849900D0F51F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C7730BCA2134849900D0F51F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C7730BD42139E42600D0F51F /* SelectedButtonTag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectedButtonTag.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C7730BBE2134849700D0F51F /* AppDelegate.swift */,
 				C7730BC02134849700D0F51F /* ViewController.swift */,
 				C7730BC22134849700D0F51F /* Main.storyboard */,
+				C7730BD42139E42600D0F51F /* SelectedButtonTag.swift */,
 				C7730BC52134849900D0F51F /* Assets.xcassets */,
 				C7730BC72134849900D0F51F /* LaunchScreen.storyboard */,
 				C7730BCA2134849900D0F51F /* Info.plist */,
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7730BC12134849700D0F51F /* ViewController.swift in Sources */,
+				C7730BD52139E42600D0F51F /* SelectedButtonTag.swift in Sources */,
 				C7730BBF2134849700D0F51F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
