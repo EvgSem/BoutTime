@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.displayQuestion():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "questionnaire">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EventInformationViewController.loadLinkInWebView():EventInformationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "eventWebView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.checkAnswer():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexOfSelectedQuestion">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "EventInformationViewController.viewDidLoad():EventInformationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlString">
+            </PersistentString>
+            <PersistentString
+               value = "testButton">
+            </PersistentString>
+            <PersistentString
+               value = "eventWebView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
