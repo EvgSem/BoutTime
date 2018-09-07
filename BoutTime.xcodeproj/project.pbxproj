@@ -7,15 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C759C2E821422CC700AAE7CB /* FinalScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C759C2E721422CC700AAE7CB /* FinalScoreViewController.swift */; };
 		C7730BBF2134849700D0F51F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7730BBE2134849700D0F51F /* AppDelegate.swift */; };
 		C7730BC12134849700D0F51F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7730BC02134849700D0F51F /* ViewController.swift */; };
 		C7730BC42134849700D0F51F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7730BC22134849700D0F51F /* Main.storyboard */; };
 		C7730BC62134849900D0F51F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C7730BC52134849900D0F51F /* Assets.xcassets */; };
 		C7730BC92134849900D0F51F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C7730BC72134849900D0F51F /* LaunchScreen.storyboard */; };
 		C7730BD52139E42600D0F51F /* SelectedButtonTag.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7730BD42139E42600D0F51F /* SelectedButtonTag.swift */; };
+		C7730BD7213A503600D0F51F /* Presidents.plist in Resources */ = {isa = PBXBuildFile; fileRef = C7730BD6213A503600D0F51F /* Presidents.plist */; };
+		C7730BD9213C985F00D0F51F /* Options.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7730BD8213C985F00D0F51F /* Options.swift */; };
+		C7730BDB213CA2FD00D0F51F /* Questionnaire.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7730BDA213CA2FD00D0F51F /* Questionnaire.swift */; };
+		C7730BDE213F11B800D0F51F /* IncorrectBuzz.wav in Resources */ = {isa = PBXBuildFile; fileRef = C7730BDC213F11B800D0F51F /* IncorrectBuzz.wav */; };
+		C7730BDF213F11B800D0F51F /* CorrectDing.wav in Resources */ = {isa = PBXBuildFile; fileRef = C7730BDD213F11B800D0F51F /* CorrectDing.wav */; };
+		C7730BE12140E29F00D0F51F /* EventInformationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7730BE02140E29F00D0F51F /* EventInformationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C759C2E721422CC700AAE7CB /* FinalScoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinalScoreViewController.swift; sourceTree = "<group>"; };
 		C7730BBB2134849700D0F51F /* BoutTime.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BoutTime.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7730BBE2134849700D0F51F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C7730BC02134849700D0F51F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +32,12 @@
 		C7730BC82134849900D0F51F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C7730BCA2134849900D0F51F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C7730BD42139E42600D0F51F /* SelectedButtonTag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectedButtonTag.swift; sourceTree = "<group>"; };
+		C7730BD6213A503600D0F51F /* Presidents.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Presidents.plist; sourceTree = "<group>"; };
+		C7730BD8213C985F00D0F51F /* Options.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Options.swift; sourceTree = "<group>"; };
+		C7730BDA213CA2FD00D0F51F /* Questionnaire.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Questionnaire.swift; sourceTree = "<group>"; };
+		C7730BDC213F11B800D0F51F /* IncorrectBuzz.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = IncorrectBuzz.wav; sourceTree = "<group>"; };
+		C7730BDD213F11B800D0F51F /* CorrectDing.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = CorrectDing.wav; sourceTree = "<group>"; };
+		C7730BE02140E29F00D0F51F /* EventInformationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventInformationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +72,18 @@
 			children = (
 				C7730BBE2134849700D0F51F /* AppDelegate.swift */,
 				C7730BC02134849700D0F51F /* ViewController.swift */,
+				C7730BE02140E29F00D0F51F /* EventInformationViewController.swift */,
+				C759C2E721422CC700AAE7CB /* FinalScoreViewController.swift */,
 				C7730BC22134849700D0F51F /* Main.storyboard */,
+				C7730BD8213C985F00D0F51F /* Options.swift */,
+				C7730BDA213CA2FD00D0F51F /* Questionnaire.swift */,
 				C7730BD42139E42600D0F51F /* SelectedButtonTag.swift */,
 				C7730BC52134849900D0F51F /* Assets.xcassets */,
 				C7730BC72134849900D0F51F /* LaunchScreen.storyboard */,
+				C7730BDD213F11B800D0F51F /* CorrectDing.wav */,
+				C7730BDC213F11B800D0F51F /* IncorrectBuzz.wav */,
 				C7730BCA2134849900D0F51F /* Info.plist */,
+				C7730BD6213A503600D0F51F /* Presidents.plist */,
 			);
 			path = BoutTime;
 			sourceTree = "<group>";
@@ -126,8 +147,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				C7730BC92134849900D0F51F /* LaunchScreen.storyboard in Resources */,
+				C7730BDF213F11B800D0F51F /* CorrectDing.wav in Resources */,
+				C7730BDE213F11B800D0F51F /* IncorrectBuzz.wav in Resources */,
 				C7730BC62134849900D0F51F /* Assets.xcassets in Resources */,
 				C7730BC42134849700D0F51F /* Main.storyboard in Resources */,
+				C7730BD7213A503600D0F51F /* Presidents.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +162,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C7730BDB213CA2FD00D0F51F /* Questionnaire.swift in Sources */,
+				C7730BD9213C985F00D0F51F /* Options.swift in Sources */,
+				C759C2E821422CC700AAE7CB /* FinalScoreViewController.swift in Sources */,
 				C7730BC12134849700D0F51F /* ViewController.swift in Sources */,
 				C7730BD52139E42600D0F51F /* SelectedButtonTag.swift in Sources */,
+				C7730BE12140E29F00D0F51F /* EventInformationViewController.swift in Sources */,
 				C7730BBF2134849700D0F51F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>George Washington</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/George_Washington</string>
+		<key>year</key>
+		<integer>1789</integer>
+	</dict>
+	<key>John Adams</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/John_Adams</string>
+		<key>year</key>
+		<integer>1797</integer>
+	</dict>
+	<key>Thomas Jefferson</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Thomas_Jefferson</string>
+		<key>year</key>
+		<integer>1801</integer>
+	</dict>
+	<key>James Madison</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/James_Madison</string>
+		<key>year</key>
+		<integer>1809</integer>
+	</dict>
+	<key>James Monroe</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/James_Monroe</string>
+		<key>year</key>
+		<integer>1817</integer>
+	</dict>
+	<key>John Quincy Adams</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/John_Quincy_Adams</string>
+		<key>year</key>
+		<integer>1825</integer>
+	</dict>
+	<key>Andrew Jackson</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Andrew_Jackson</string>
+		<key>year</key>
+		<integer>1829</integer>
+	</dict>
+	<key>Martin Van Buren</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Martin_Van_Buren</string>
+		<key>year</key>
+		<integer>1837</integer>
+	</dict>
+	<key>John Tyler</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/John_Tyler</string>
+		<key>year</key>
+		<integer>1841</integer>
+	</dict>
+	<key>James Knox Polk</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/James_K._Polk</string>
+		<key>year</key>
+		<real>1845</real>
+	</dict>
+	<key>Zachary Taylor</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Zachary_Taylor</string>
+		<key>year</key>
+		<integer>1849</integer>
+	</dict>
+	<key>Millard Fillmore</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Millard_Fillmore</string>
+		<key>year</key>
+		<integer>1850</integer>
+	</dict>
+	<key>Franklin Pierce</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Franklin_Pierce</string>
+		<key>year</key>
+		<integer>1853</integer>
+	</dict>
+	<key>James Buchanan</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/James_Buchanan</string>
+		<key>year</key>
+		<integer>1857</integer>
+	</dict>
+	<key>Abraham Lincoln</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Abraham_Lincoln</string>
+		<key>year</key>
+		<integer>1861</integer>
+	</dict>
+	<key>Andrew Johnson</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Andrew_Johnson</string>
+		<key>year</key>
+		<integer>1865</integer>
+	</dict>
+	<key>Ulysses S. Grant</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Ulysses_S._Grant</string>
+		<key>year</key>
+		<real>1869</real>
+	</dict>
+	<key>Rutherford Birchard Hayes</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Rutherford_B._Hayes</string>
+		<key>year</key>
+		<real>1877</real>
+	</dict>
+	<key>Chester Alan Arthur</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/James_A._Garfield</string>
+		<key>year</key>
+		<real>1881</real>
+	</dict>
+	<key>Grover Cleveland</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Grover_Cleveland</string>
+		<key>year</key>
+		<integer>1885</integer>
+	</dict>
+	<key>Benjamin Harrison</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Benjamin_Harrison</string>
+		<key>year</key>
+		<integer>1889</integer>
+	</dict>
+	<key>Grover Cleveland (2d time)</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Grover_Cleveland</string>
+		<key>year</key>
+		<real>1893</real>
+	</dict>
+	<key>William McKinley</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/William_McKinley</string>
+		<key>year</key>
+		<real>1897</real>
+	</dict>
+	<key>Theodore Roosevelt</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Theodore_Roosevelt</string>
+		<key>year</key>
+		<real>1901</real>
+	</dict>
+	<key>William Howard Taft</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/William_Howard_Taft</string>
+		<key>year</key>
+		<real>1909</real>
+	</dict>
+	<key>Woodrow Wilson</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Woodrow_Wilson</string>
+		<key>year</key>
+		<real>1913</real>
+	</dict>
+	<key>Warren Gamaliel Harding</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Warren_G._Harding</string>
+		<key>year</key>
+		<real>1921</real>
+	</dict>
+	<key>Calvin Coolidge</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Calvin_Coolidge</string>
+		<key>year</key>
+		<real>1923</real>
+	</dict>
+	<key>Herbert Clark Hoover</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Herbert_Hoover</string>
+		<key>year</key>
+		<real>1929</real>
+	</dict>
+	<key>Franklin Delano Roosevelt</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Franklin_D._Roosevelt</string>
+		<key>year</key>
+		<real>1933</real>
+	</dict>
+	<key>Harry S. Truman</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Harry_S._Truman</string>
+		<key>year</key>
+		<real>1945</real>
+	</dict>
+	<key>Dwight David Eisenhower</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Dwight_D._Eisenhower</string>
+		<key>year</key>
+		<real>1953</real>
+	</dict>
+	<key>John Fitzgerald Kennedy</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/John_F._Kennedy</string>
+		<key>year</key>
+		<real>1961</real>
+	</dict>
+	<key>Lyndon Baines Johnson</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Lyndon_B._Johnson</string>
+		<key>year</key>
+		<real>1963</real>
+	</dict>
+	<key>Richard Milhous Nixon</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Richard_Nixon</string>
+		<key>year</key>
+		<real>1969</real>
+	</dict>
+	<key>Gerald Rudolph Ford</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Gerald_Ford</string>
+		<key>year</key>
+		<real>1974</real>
+	</dict>
+	<key>Jimmy Carter</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Jimmy_Carter</string>
+		<key>year</key>
+		<integer>1977</integer>
+	</dict>
+	<key>Ronald Wilson Reagan</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Ronald_Reagan</string>
+		<key>year</key>
+		<real>1981</real>
+	</dict>
+	<key>George Herbert Walker Bush</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/George_H._W._Bush</string>
+		<key>year</key>
+		<real>1989</real>
+	</dict>
+	<key>William Jefferson Clinton</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Bill_Clinton</string>
+		<key>year</key>
+		<real>1993</real>
+	</dict>
+	<key>George Walker Bush</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/George_W._Bush</string>
+		<key>year</key>
+		<real>2001</real>
+	</dict>
+	<key>Barack Obama</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Barack_Obama</string>
+		<key>year</key>
+		<real>2009</real>
+	</dict>
+	<key>Donald Trump</key>
+	<dict>
+		<key>url</key>
+		<string>https://en.wikipedia.org/wiki/Donald_Trump</string>
+		<key>year</key>
+		<integer>2017</integer>
+	</dict>
+</dict>
+</plist>
