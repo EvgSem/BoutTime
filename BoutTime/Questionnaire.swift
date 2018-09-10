@@ -24,7 +24,7 @@ class Question {
         optionsForQuestion = [Option]()
         correctOrder = [Option]()
         generateOptions()
-        correctOrder = optionsForQuestion.sorted(by: { $0.year > $1.year })
+        correctOrder = optionsForQuestion.sorted(by: { $0.year < $1.year })
     }
     
     func generateOptions() {

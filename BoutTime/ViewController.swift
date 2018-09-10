@@ -46,6 +46,7 @@ class ViewController: UIViewController {
     var seconds = 60
     var timer = Timer()
     var isTimerRunning = false
+    var isEndOfTheTour = false
     
     var correctAnswerSound: SystemSoundID = 0
     var wrongAnswerSound: SystemSoundID = 1
@@ -69,6 +70,7 @@ class ViewController: UIViewController {
     }
 
     func displayQuestion() {
+        isEndOfTheTour = false
         indexOfSelectedQuestion = GKRandomSource.sharedRandom().nextInt(upperBound: questionnaire.questions.count)
         let question = questionnaire.questions[indexOfSelectedQuestion]
         
@@ -107,6 +109,7 @@ class ViewController: UIViewController {
     }
 
     func checkAnswer() {
+        isEndOfTheTour = true
         timer.invalidate()
         
         let optionLabels = [option1Label, option2Label, option3Label, option4Label]
@@ -270,7 +273,9 @@ class ViewController: UIViewController {
     }
     
     func showWikiWebPageForOption(_ option: Int){
-        timer.invalidate()
+        guard isEndOfTheTour else {
+            return
+        }
         let selectedQuestion = questionnaire.questions[indexOfSelectedQuestion]
         let option = selectedQuestion.optionsForQuestion[option]
         
@@ -280,10 +285,6 @@ class ViewController: UIViewController {
         let modalViewController = storyBoard.instantiateViewController(withIdentifier: "EventInformationViewController") as! EventInformationViewController
         
         modalViewController.urlString = option.url
-        
-        modalViewController.onDoneBlock = { result in
-            self.runTimer()
-        }
         
         self.present(modalViewController, animated:true, completion:nil)
     }
@@ -318,6 +319,4 @@ class ViewController: UIViewController {
         option4View.addGestureRecognizer(tapGestureForOption4)
         option4View.isUserInteractionEnabled = true
     }
-
 }
-

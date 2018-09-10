@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "BoutTime/ViewController.swift"
-            timestampString = "557985844.751104"
+            timestampString = "558297628.1986181"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "55"
-            endingLineNumber = "55"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
             landmarkName = "init(coder:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -26,13 +26,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "BoutTime/ViewController.swift"
-            timestampString = "557985844.7512161"
+            timestampString = "558297628.1986949"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "218"
-            endingLineNumber = "218"
-            landmarkName = "ViewController"
-            landmarkType = "3">
+            startingLineNumber = "221"
+            endingLineNumber = "221"
+            landmarkName = "setRadiusForOptionViews()"
+            landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -42,12 +42,12 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "BoutTime/ViewController.swift"
-            timestampString = "557985844.751303"
+            timestampString = "558297628.198756"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "318"
-            endingLineNumber = "318"
-            landmarkName = "showWikiWebPageForOption(_:)"
+            startingLineNumber = "319"
+            endingLineNumber = "319"
+            landmarkName = "addGesturesToOptionView()"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
